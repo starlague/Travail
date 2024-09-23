@@ -23,7 +23,7 @@ img {
 }
 section{
     height: min-content;
-    width: min-content;
+    width: 100%;
 }
 
 footer {
