@@ -22,8 +22,8 @@ header img{
 }
 
 section img {
-    max-width: 20vw;
-    max-height: 20vh;
+    width: 20vw;
+    height: 20vh;
 }
 section{
     height: min-content;
