@@ -2,7 +2,7 @@
 function trackUserActivity() {
     console.log("Tracking user activity...");
     // Boucle inutile pour simuler une charge
-    for (let i = 0; i < 500; i++) {}
+    for (let i = 0; i < 500000000; i++) {}
 }
 
 trackUserActivity();
