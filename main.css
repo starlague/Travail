@@ -19,7 +19,11 @@ h2 {
 
 img {
     max-width: 100%;
-    height: auto;
+    max-height: 90%;
+}
+section{
+    height: min-content;
+    width: min-content;
 }
 
 footer {
